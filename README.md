@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DizzyMelo
-- 👀 I’m interested in Mobile App Developement
-- 🌱 I’m currently learning React and Spring, but I am proficient in Flutter.
+- 👋 Hi, I’m Daniel Melo (@DizzyMelo)
+- 👀 I’m passionate about Software Engineering
+- 🌱 I’m currently learning Kotlin for native Android development, but I am proficient in Flutter.
 - 💞️ I’m looking to collaborate on Mobile apps that inspire and impacts the world in a positive way
 - 📫 How to reach me ...
 
