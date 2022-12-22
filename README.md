@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Melo (@DizzyMelo)
 - 👀 I’m passionate about Software Engineering
-- 🌱 I’m currently learning Kotlin for native Android development, but I am proficient in Flutter.
+- 🌱 I am an experienced mobile app developer, and have expertise using Flutter Framework.
 - 💞️ I’m looking to collaborate on Mobile apps that inspire and impacts the world in a positive way
 - 📫 How to reach me ...
 
